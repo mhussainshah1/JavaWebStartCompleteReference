@@ -9,5 +9,8 @@
         <module name="JavaWebStartCompleteReference" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="JavaWebStartCompleteReference" target="16" />
+    </bytecodeTargetLevel>
   </component>
 </project>
