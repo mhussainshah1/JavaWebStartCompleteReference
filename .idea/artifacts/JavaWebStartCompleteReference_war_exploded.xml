@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="JavaWebStartCompleteReference:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaWebStartCompleteReference_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="JavaWebStartCompleteReference" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:16" />
+          <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:win:16" />
+          <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:16" />
+          <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:win:16" />
+          <element id="library" level="project" name="Maven: org.openjfx:javafx-base:16" />
+          <element id="library" level="project" name="Maven: org.openjfx:javafx-base:win:16" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="JavaWebStartCompleteReference/web/Web" />
+    </root>
+  </artifact>
+</component>

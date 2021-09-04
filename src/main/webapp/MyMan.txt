@@ -1,0 +1,5 @@
+Main-Class: appendix.ToggleButtonDemo
+Class-Path: javafx-base-11.0.2-win javafx-controls-11.0.2-win javafx-fxml-11.0.2-win javafx-graphics-11.0.2-win
+Permissions: all-permissions
+Codebase: http://localhost:8080/JavaWebStartCompleteReference/
+Application-Library-Allowable-Codebase: *
