@@ -10,34 +10,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d2444a2-18ae-4d91-a263-f26dfbc7ef90" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/JavaWebStartCompleteReference_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaWebStartCompleteReference_war_exploded/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaWebStartCompleteReference_war_exploded/MyMan.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaWebStartCompleteReference_war_exploded/ToggleButtonDemo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaWebStartCompleteReference_war_exploded/ToggleButtonDemo.jnlp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaWebStartCompleteReference_war_exploded/WEB-INF/classes/appendix/ToggleButtonDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaWebStartCompleteReference_war_exploded/WEB-INF/lib/javafx-base-16-win.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaWebStartCompleteReference_war_exploded/WEB-INF/lib/javafx-base-16.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaWebStartCompleteReference_war_exploded/WEB-INF/lib/javafx-controls-16-win.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaWebStartCompleteReference_war_exploded/WEB-INF/lib/javafx-controls-16.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaWebStartCompleteReference_war_exploded/WEB-INF/lib/javafx-graphics-16-win.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaWebStartCompleteReference_war_exploded/WEB-INF/lib/javafx-graphics-16.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaWebStartCompleteReference_war_exploded/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaWebStartCompleteReference_war_exploded/devKeys" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaWebStartCompleteReference_war_exploded/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaWebStartCompleteReference_war_exploded/jars/ToggleButtonDemo.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaWebStartCompleteReference_war_exploded/jars/javafx-base-16-win.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaWebStartCompleteReference_war_exploded/jars/javafx-controls-16-win.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaWebStartCompleteReference_war_exploded/jars/javafx-fxml-16-win.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaWebStartCompleteReference_war_exploded/jars/javafx-graphics-16-win.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaWebStartCompleteReference_war_exploded/run.bat" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jars/javafx-base-17-win.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jars/javafx-controls-17-win.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jars/javafx-fxml-17-win.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jars/javafx-graphics-17-win.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/JavaWebStartCompleteReference_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/JavaWebStartCompleteReference_war.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/JavaWebStartCompleteReference_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/JavaWebStartCompleteReference_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaWebStartCompleteReference.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaWebStartCompleteReference.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/MyMan.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/MyMan.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ToggleButtonDemo.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/ToggleButtonDemo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ToggleButtonDemo.jnlp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/ToggleButtonDemo.jnlp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/devKeys" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/devKeys" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/jars/ToggleButtonDemo.jar" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/jars/ToggleButtonDemo.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/jars/javafx-base-16-win.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/jars/javafx-controls-16-win.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/jars/javafx-fxml-16-win.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/jars/javafx-graphics-16-win.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/run.bat" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/run.bat" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +46,9 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1xgb4SaM5PcXDkpIHAN2afCh5Nt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -66,13 +61,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea/artifacts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.12093023" />
     <property name="project.structure.side.proportion" value="0.26588982" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
@@ -94,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tomcat 10.0.8" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.0.8" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/JavaWebStartCompleteReference" />
+    <configuration name="Tomcat 10.1.0-M11" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.0-M11" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/JavaWebStartCompleteReference/ToggleButtonDemo.html" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="JavaWebStartCompleteReference:war exploded">
@@ -193,7 +188,9 @@
       <updated>1630779494752</updated>
       <workItem from="1630779501179" duration="2116000" />
       <workItem from="1630781686634" duration="146000" />
-      <workItem from="1630781857468" duration="972000" />
+      <workItem from="1630781857468" duration="1309000" />
+      <workItem from="1646550095148" duration="160000" />
+      <workItem from="1646550261168" duration="817000" />
     </task>
     <servers />
   </component>
@@ -210,7 +207,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
