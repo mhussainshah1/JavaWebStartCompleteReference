@@ -10,26 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d2444a2-18ae-4d91-a263-f26dfbc7ef90" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jars/javafx-base-17-win.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jars/javafx-controls-17-win.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jars/javafx-fxml-17-win.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jars/javafx-graphics-17-win.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/JavaWebStartCompleteReference_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/JavaWebStartCompleteReference_war.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/JavaWebStartCompleteReference_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/JavaWebStartCompleteReference_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaWebStartCompleteReference.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaWebStartCompleteReference.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/MyMan.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/MyMan.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/ToggleButtonDemo.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/ToggleButtonDemo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/ToggleButtonDemo.jnlp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/ToggleButtonDemo.jnlp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/devKeys" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/devKeys" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/jars/ToggleButtonDemo.jar" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/jars/ToggleButtonDemo.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/jars/javafx-base-16-win.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/jars/javafx-controls-16-win.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/jars/javafx-fxml-16-win.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/jars/javafx-graphics-16-win.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/run.bat" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/run.bat" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,7 +171,8 @@
       <workItem from="1630781686634" duration="146000" />
       <workItem from="1630781857468" duration="1309000" />
       <workItem from="1646550095148" duration="160000" />
-      <workItem from="1646550261168" duration="817000" />
+      <workItem from="1646550261168" duration="1110000" />
+      <workItem from="1646741842907" duration="55000" />
     </task>
     <servers />
   </component>
