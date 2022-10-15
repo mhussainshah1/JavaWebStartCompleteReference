@@ -14,12 +14,15 @@
           <element id="module-output" name="JavaWebStartCompleteReference" />
         </element>
         <element id="directory" name="lib">
-          <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:16" />
-          <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:win:16" />
-          <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:16" />
-          <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:win:16" />
-          <element id="library" level="project" name="Maven: org.openjfx:javafx-base:16" />
-          <element id="library" level="project" name="Maven: org.openjfx:javafx-base:win:16" />
+          <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:19" />
+          <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:win:19" />
+          <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:19" />
+          <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:win:19" />
+          <element id="library" level="project" name="Maven: org.openjfx:javafx-base:19" />
+          <element id="library" level="project" name="Maven: org.openjfx:javafx-base:win:19" />
+          <element id="library" level="project" name="Maven: org.openjfx:javafx-fxml:19" />
+          <element id="library" level="project" name="Maven: org.openjfx:javafx-fxml:win:19" />
+          <element id="library" level="project" name="Maven: org.controlsfx:controlsfx:11.1.1" />
         </element>
       </element>
       <element id="directory" name="META-INF">

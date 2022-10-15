@@ -4,21 +4,21 @@
     <information>
         <title>ToggleButtonDemo Application</title>
         <vendor>Self</vendor>
-        <offline-allowed />
+        <offline-allowed>no</offline-allowed>
     </information>
 
-	<security>
-		<all-permissions/>
-	</security>
-	
-	<resources>
+    <security>
+        <all-permissions/>
+    </security>
+
+    <resources>
         <java version="17*"/>
         <jar href="jars/ToggleButtonDemo.jar"/>
-        <jar href="jars/javafx-controls-17-win.jar"/>
-        <jar href="jars/javafx-graphics-17-win.jar"/>
-        <jar href="jars/javafx-base-17-win.jar"/>
-        <jar href="jars/javafx-fxml-17-win.jar"/>
+        <jar href="jars/javafx-controls-19-win.jar"/>
+        <jar href="jars/javafx-graphics-19-win.jar"/>
+        <jar href="jars/javafx-base-19-win.jar"/>
+        <jar href="jars/javafx-fxml-19-win.jar"/>
     </resources>
-	
-	<application-desc main-class="appendix.ToggleButtonDemo"/>
+
+    <application-desc main-class="appendix.ToggleButtonDemo"/>
 </jnlp>
